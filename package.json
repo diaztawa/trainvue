@@ -1,0 +1,27 @@
+{
+  "name": "trainvue",
+  "version": "1.0.0",
+  "description": "Training using Vue",
+  "main": "main.js",
+  "dependencies": {
+    "prettier": "^1.19.1",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diaztawa/trainvue.git"
+  },
+  "keywords": [
+    "Vue"
+  ],
+  "author": "Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diaztawa/trainvue/issues"
+  },
+  "homepage": "https://github.com/diaztawa/trainvue#readme"
+}
